@@ -23,9 +23,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Conhecimento geral',
+    'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
+    'Entre 4 a 6 litros. São retirados 450 mililitros.'
 )
 
 
