@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'conhecimento geral',
-    'O que é uma função?',
+    'Que cidade brasileira é conhecida por chover todos os dias quase à mesma hora?',
     'Belém'
 )
 
