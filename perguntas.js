@@ -30,7 +30,7 @@ criaCartao(
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Matematica',
+    'No meu jardim existe 3 pés de alface, 1 de pepino e 5 de cenoura. Quantos pés eu tenho no total?',
+    'Eu, como a maior parte das pessoas, tenho 2 pés.'
 )
